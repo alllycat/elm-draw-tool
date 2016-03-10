@@ -9,17 +9,22 @@ A “polygon tool” which teaches about ELMs graphical support for polygons by 
 
 ## Completed Features
 
-###Cartesian plane
-###Ability to plot precise points
-###Real-time update on mouse hover + click positions
-###Creating Shapes
-###Able to pick color
-###Able to pick shape stype
-###Can create multiple shapes
-###Generates corresponding ELM code side-by-side
+#####Cartesian plane
+Grid lines to help kids understand (x,y) co-ordinates
+#####Ability to plot precise points
+Updates precise (x,y) co-ordinate on-click
+Plots a 
+#####Real-time update on mouse hover position
+Visible cursor
+Updates (x,y) position of cursor in real-time
+#####Creating Shapes
+Able to pick color
+Able to pick shape style (fill vs outline)
+Can create multiple shapes
+#####Generates corresponding ELM code side-by-side
 
 ## Working on:
 
-###Updating code to ELM version 0.16
-###Undo Button
-###Ability to copy and paste
+#####Updating code to ELM version 0.16
+#####Undo Button
+#####Ability to copy and paste
