@@ -6,3 +6,20 @@ A “polygon tool” which teaches about ELMs graphical support for polygons by 
 
 #####Programmed in functional programming language ELM 
 #####Can be copied and pasted in http://elm-lang.org/try
+
+## Completed Features
+
+###Cartesian plane
+###Ability to plot precise points
+###Real-time update on mouse hover + click positions
+###Creating Shapes
+###Able to pick color
+###Able to pick shape stype
+###Can create multiple shapes
+###Generates corresponding ELM code side-by-side
+
+## Working on:
+
+###Updating code to ELM version 0.16
+###Undo Button
+###Ability to copy and paste
