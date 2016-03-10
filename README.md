@@ -4,27 +4,31 @@
 
 A “polygon tool” which teaches about ELMs graphical support for polygons by letting students tap and click to create their desired shapes, and showing them the ELM code which does the same job programmatically
 
-#####Programmed in functional programming language ELM 
-#####Can be copied and pasted in http://elm-lang.org/try
+* #####Programmed in functional programming language ELM 
+* #####Can be copied and pasted in http://elm-lang.org/try
 
 ## Completed Features
 
 #####Cartesian plane
-Grid lines to help kids understand (x,y) co-ordinates
+* Grid lines to help kids understand (x,y) co-ordinates
+* X / Y values on both axis
+
 #####Ability to plot precise points
-Updates precise (x,y) co-ordinate on-click
-Plots a 
+* Stamps the precise (x,y) co-ordinate on-click relative to the generated graph
+* Stamps the precise circle co-ordinate on-click relative to the generated graph
+
 #####Real-time update on mouse hover position
-Visible cursor
-Updates (x,y) position of cursor in real-time
+* Visible cursor
+* Updates (x,y) position of cursor in real-time while hovering
+
 #####Creating Shapes
-Able to pick color
-Able to pick shape style (fill vs outline)
-Can create multiple shapes
-#####Generates corresponding ELM code side-by-side
+* Able to pick color
+* Able to pick shape style (fill vs outline)
+* Can create multiple shapes
+* Generates corresponding ELM code side-by-side
 
 ## Working on:
 
-#####Updating code to ELM version 0.16
-#####Undo Button
-#####Ability to copy and paste
+* Updating code to ELM version 0.16
+* Undo Button
+* Ability to copy and paste
